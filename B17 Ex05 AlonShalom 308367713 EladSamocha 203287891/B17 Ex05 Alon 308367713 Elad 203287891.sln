@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05.BullsAndCows", "Ex05.BullsAndCows\Ex05.BullsAndCows.csproj", "{7EFF82DD-7093-4700-B135-5440BE28034E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05.CustomControls", "Ex05.CustomControls\Ex05.CustomControls.csproj", "{43D8D94C-C81B-44E7-A534-195AE617891A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B857A128-0185-43B2-8A4C-4AAC19D1220A}"
+	ProjectSection(SolutionItems) = preProject
+		Exercise Checking Report.txt = Exercise Checking Report.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EFF82DD-7093-4700-B135-5440BE28034E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EFF82DD-7093-4700-B135-5440BE28034E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EFF82DD-7093-4700-B135-5440BE28034E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EFF82DD-7093-4700-B135-5440BE28034E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D8D94C-C81B-44E7-A534-195AE617891A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D8D94C-C81B-44E7-A534-195AE617891A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D8D94C-C81B-44E7-A534-195AE617891A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D8D94C-C81B-44E7-A534-195AE617891A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
